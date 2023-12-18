@@ -1,0 +1,19 @@
+body{
+    background: #000015;
+}
+
+*{
+    color:#ffffff;
+}
+
+i{
+    position: fixed;
+    left: 30px;
+    top: 30px;
+    font-size: 50px;
+    color:#ca2c639f;
+}
+
+img{
+    margin: 30px;
+}
